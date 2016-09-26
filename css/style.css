@@ -1,0 +1,25 @@
+table {
+  margin: 25px;
+}
+
+td {
+  height: 50px;
+  width: 50px;
+  border: 8px solid black;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
